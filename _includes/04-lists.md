@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+List of favorite things:
+1. Halo
+2. Cybersecurity
+3. Food
