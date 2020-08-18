@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*I* enjoy writting in **C#, C++, Python, Java**.
+*I* am familiar with working in **VS Code, Visual Studio, Eclipse**.
+*I* don't completely want to do **THIS** exercise.
